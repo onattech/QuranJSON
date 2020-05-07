@@ -1,2 +1,2 @@
 # QuranJSON
-The Glorious Quran with Uthmani Text in JSON format.
+The Glorious Quran with the Uthmani Text in JSON format.
